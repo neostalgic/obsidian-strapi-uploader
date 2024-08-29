@@ -1,0 +1,11 @@
+{
+	"id": "strapi-upload-plugin",
+	"name": "Strapi Uploader",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Uploads an Obsidian note to a Strapi server",
+	"author": "neostalgic",
+	"authorUrl": "https://neostalgic.io/",
+	"fundingUrl": "https://neostalgic.io/",
+	"isDesktopOnly": false
+}
